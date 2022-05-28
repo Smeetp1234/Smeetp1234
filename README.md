@@ -7,7 +7,6 @@
 
 [<img src='https://www.bing.com/th?id=OIP.ckeUFk-yid0vfWnd56w7wAHaHa&w=204&h=204&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2' height='40'>](https://github.com/Smeetp1234)
 [<img src='https://www.bing.com/th?id=OIP.UjeNAks1q8Vp1WfhU8sU-gHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2' alt='instagram' height='40'>](#)
-[<img src='https://www.bing.com/th?id=OIP.TjJLFtl5EzroU8eTK97iKgHaHa&w=88&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2' alt='codepen' height='40'>](https://codepen.io/)
 [<img src='https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png' alt='Reddit' height='40'>](https://www.reddit.com/) 
 
 ## Languages :
