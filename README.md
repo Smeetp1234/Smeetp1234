@@ -1,9 +1,9 @@
 ## Hey there...!:wave:, 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"/>
 </div>
 <!-- https://giphy.com/gifs/programmer-p4NLw3I4U0idi/ -->
-<div id="badges" align="center">
+<div align="center">
   <a href="https://github.com/Smeetp1234">
     <img src="https://img.shields.io/badge/GITHUB-white?logo=github&logoColor=black" alt="Github Badge" height='40'/>
   </a>
